@@ -1,0 +1,3 @@
+# Introduction
+
+I worked on this project as part of a research internship at the University of French Polynesia during the summer 2023. The goal was to understand the article provided as a PDF file. It studies a new Machine Learning framework, the ERM-RER problem. The notbooks "ERM_RER continuous Q" and "ERM_RER discrete Q" are meant to explain this framework by providing simple examples. The notebook "ERM_RER_for_OCR" brings an attempt to applicate the method from the article for OCR, I trained neural networks on the MNIST database, note that the results are not yet good. I keep working on this project
